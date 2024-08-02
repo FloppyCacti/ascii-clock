@@ -1,0 +1,12 @@
+# Compiled binaries
+bin/
+
+# Header files (if generated)
+include/
+
+# Compiled libraries
+lib/
+lib64/
+
+# Python virtual environment configuration
+pyvenv.cfg
