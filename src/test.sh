@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Activate virtual environment
-# source /path/to/activate/myenv/bin/activate
+source ../bin/activate
 
 # Hide cursor
 tput civis
