@@ -15,12 +15,8 @@ cd ascii-clock/src/
 
 ## Usage
 
-Enter into ascii-clock directory and run:
+Enter into src directory and run makeClock.sh file:
 
-```bash
-python main.py
-```
-Instead to hide cursor run:
 ```bash
 ./makeClock.sh
 ``` 
