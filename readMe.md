@@ -10,7 +10,20 @@ Clone the repository and navigate into the project directory:
 
 ```bash
 git clone https://github.com/FloppyCacti/ascii-clock.git
-cd ascii-clock/src/
+cd ascii-clock/
+```
+
+Create and activate a virtual environment
+
+```bash
+python -m venv .
+source bin/activate
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
