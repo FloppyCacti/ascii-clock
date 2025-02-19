@@ -62,6 +62,24 @@ To:
 custom_font = set_Font('Font_name')
 ```
 
+## Example
+
+Default:
+
+![Defulat Clock](https://github.com/user-attachments/assets/c03c75ef-ab04-4027-aca2-796fe1b47f68)
+
+Disabled colorized digits:
+
+![Simple Clock](https://github.com/user-attachments/assets/13e7db63-8b9d-464d-8d72-66f4ab3eaa05)
+
+4max font:
+
+![4max Font Clock](https://github.com/user-attachments/assets/024cc914-fb1e-4c47-8912-b322a1135857)
+
+Computer font:
+
+![Computer Font Clock](https://github.com/user-attachments/assets/38fbe05f-d2a8-4dc4-94a2-8576a7ca42ae)
+
 ## Contributing
 
 Feel free to submit pull reqests or open issues if you have suggestions or improvements.
